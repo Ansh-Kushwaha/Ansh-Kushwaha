@@ -31,15 +31,32 @@
 
 ## Github Stats 📊
 <div>
-<a href="https://github.com/Ansh-Kushwaha/Ansh-Kushwaha">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ansh-Kushwaha&count_private=false&show_icons=true&theme=rose_pine&include_all_commits=false&hide_border=false&count_private=true&custom_title=Ansh%20Kushwaha%27s%20Github%20Stats" alt="Ansh's GitHub Stats" />
+ <a href="https://github.com/Ansh-Kushwaha/Ansh-Kushwaha">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ansh-Kushwaha&count_private=false&show_icons=true&theme=rose_pine&include_all_commits=false&hide_border=false&count_private=true&custom_title=Ansh%20Kushwaha%27s%20Github%20Stats#gh-dark-mode-only" alt="Ansh's GitHub Stats" />
  </a>
-<a href="https://github.com/Ansh-Kushwaha/Ansh-Kushwaha">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansh-Kushwaha&theme=rose_pine&langs_count=6&card_width=350&layout=compact"/>
-</a><br></div>
+ 
+ <a href="https://github.com/Ansh-Kushwaha/Ansh-Kushwaha">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ansh-Kushwaha&count_private=false&show_icons=true&theme=buefy&include_all_commits=false&hide_border=false&count_private=true&custom_title=Ansh%20Kushwaha%27s%20Github%20Stats#gh-light-mode-only" alt="Ansh's GitHub Stats" />
+ </a>
+ 
+ <a href="https://github.com/Ansh-Kushwaha/Ansh-Kushwaha">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansh-Kushwaha&theme=rose_pine&langs_count=6&card_width=350&layout=compact#gh-dark-mode-only"/>
+ </a>
+ 
+ <a href="https://github.com/Ansh-Kushwaha/Ansh-Kushwaha">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansh-Kushwaha&theme=buefy&langs_count=6&card_width=350&layout=compact#gh-light-mode-only"/>
+ </a>
+ <br>
+</div>
+
+
 <div>
  <a href="https://github.com/Ansh-Kushwaha/Ansh-Kushwaha">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ansh-Kushwaha&count_private=true&theme=rose_pine&hide_border=false)](https://github.com/Ansh-Kushwaha" alt="Ansh's GitHub Stats Graph"/>
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ansh-Kushwaha&count_private=true&theme=rose_pine&hide_border=false#gh-dark-mode-only" alt="Ansh's GitHub Stats Graph"/>
+ </a>
+ 
+ <a href="https://github.com/Ansh-Kushwaha/Ansh-Kushwaha">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ansh-Kushwaha&count_private=true&theme=buefy&hide_border=false#gh-light-mode-only" alt="Ansh's GitHub Stats Graph"/>
  </a>
 </div>
 
