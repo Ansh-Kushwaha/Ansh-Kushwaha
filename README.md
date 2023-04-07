@@ -30,6 +30,18 @@
 -->
 
 ## Github Stats 📊
+<div>
 <a href="https://github.com/Ansh-Kushwaha/Ansh-Kushwaha">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ansh-Kushwaha&theme=radical&hide_border=true)](https://github.com/Ansh-Kushwaha" alt="Ansh's GitHub Stats Graph"/>
-</a><br>
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ansh-Kushwaha&count_private=true&theme=rose_pine&hide_border=true)](https://github.com/Ansh-Kushwaha" alt="Ansh's GitHub Stats Graph"/>
+</a>
+<a href="https://github.com/Ansh-Kushwaha/Ansh-Kushwaha">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansh-Kushwaha&theme=rose_pine&langs_count=3&layout=default&hide_broder=true"/>
+</a><br></div>
+<div>
+  <a href="https://github.com/deepesh16b/deepesh16b">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ansh-Kushwaha&count_private=true&show_icons=true&theme=rose_pine&include_all_commits=true&hide_border=true&count_private=true&custom_title=Ansh%20Kushwaha%27s%20Github%20Stats" alt="Ansh's GitHub Stats" />
+ </a>
+</div>
+
+
+
