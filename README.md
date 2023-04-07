@@ -35,7 +35,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ansh-Kushwaha&count_private=false&show_icons=true&theme=rose_pine&include_all_commits=false&hide_border=false&count_private=true&custom_title=Ansh%20Kushwaha%27s%20Github%20Stats" alt="Ansh's GitHub Stats" />
  </a>
 <a href="https://github.com/Ansh-Kushwaha/Ansh-Kushwaha">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansh-Kushwaha&theme=rose_pine&langs_count=3&layout=default"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansh-Kushwaha&theme=rose_pine&langs_count=6&card_width=350&layout=compact"/>
 </a><br></div>
 <div>
  <a href="https://github.com/Ansh-Kushwaha/Ansh-Kushwaha">
