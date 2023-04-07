@@ -17,13 +17,13 @@
 ## Connect with me 🕶
 <p align="left" style="margin: 0 5px;">
   <a href="[https://linkedin.com/in/anshkushwaha]">
-    <img src="logo/linkedin.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+    <img src="icons/linkedin.svg" alt="Linkedin" style="vertical-align:top margin:6px 4px">
   </a> 
   <a href="[https://twitter.com/AnshKushwaha26]">
-    <img src="logo/twitter.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+    <img src="icons/twitter.svg" alt="Twitter" style="vertical-align:top margin:6px 4px">
   </a> 
   <a href="mailto:ansh.kushwaha26@gmail.com">
-    <img src="logo/gmail.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+    <img src="icons/gmail.svg" alt="Gmail" style="vertical-align:top margin:6px 4px">
   </a>
 </p>
 
