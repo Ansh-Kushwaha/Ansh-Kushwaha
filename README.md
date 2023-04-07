@@ -14,19 +14,20 @@
 - 👨‍💻 All of my projects are available [Here](https://github.com/Ansh-Kushwaha/)
 - 📫 How to reach me ansh.kushwaha26@gmail.com
 
+<!--
 ## Connect with me 🕶
 <p align="left" style="margin: 0 5px;">
-<!--  <a href="https://linkedin.com/in/anshkushwaha">
+  <a href="https://linkedin.com/in/anshkushwaha">
     <img src="icons/linkedin.svg" alt="Linkedin" style="vertical-align:top margin:6px 4px">
   </a> 
   <a href="https://twitter.com/AnshKushwaha26">
     <img src="icons/twitter.svg" alt="Twitter" style="vertical-align:top margin:6px 4px">
   </a> 
-  -->
   <a href="mailto:ansh.kushwaha26@gmail.com">
     <img src="icons/gmail.png" alt="Gmail" style="vertical-align:top margin:6px 4px">
   </a>
 </p>
+-->
 
 ## Github Stats 📊
 <a href="https://github.com/Ansh-Kushwaha/Ansh-Kushwaha">
