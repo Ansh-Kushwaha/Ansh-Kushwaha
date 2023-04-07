@@ -1,16 +1,33 @@
-### Hi there 👋
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=deepesh16b&label=Profile%20views&color=6805D3&style=flat" alt="Ansh-Kushwaha" />
+ <a href="https://github.com/Ansh-Kushwaha?tab=followers"> 
+  <img src="https://img.shields.io/github/followers/Ansh-Kushwaha.svg?style=social&label=Follow" alt="Ansh-Kushwaha" />
+ </a>
+</p>
 
-<!--
-**Ansh-Kushwaha/Ansh-Kushwaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align = "center"> Hi 👋, I'm Ansh Kushwaha </h1><br>
 
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=21&duration=4500&pause=1000&color=89E1FF&multiline=true&width=700&lines=A+passionate+Android+Developer+from+India)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning Android Development
+- 👯 I’m looking to collaborate on FrontEnd Projects
+- 👨‍💻 All of my projects are available [Here](https://github.com/Ansh-Kushwaha/)
+- 📫 How to reach me ansh.kushwaha26@gmail.com
+
+## Connect with me 🕶
+<p align="left" style="margin: 0 5px;">
+  <a href="[https://linkedin.com/in/anshkushwaha]">
+    <img src="logo/linkedin.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+  </a> 
+  <a href="[https://twitter.com/AnshKushwaha26]">
+    <img src="logo/twitter.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+  </a> 
+  <a href="mailto:ansh.kushwaha26@gmail.com">
+    <img src="logo/gmail.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+  </a>
+</p>
+
+## Github Stats 📊
+<a href="https://github.com/Ansh-Kushwaha/Ansh-Kushwaha">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ansh-Kushwaha&theme=radical&hide_border=true)](https://github.com/Ansh-Kushwaha" alt="Ansh's GitHub Stats Graph"/>
+</a><br>
