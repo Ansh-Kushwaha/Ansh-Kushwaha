@@ -23,7 +23,7 @@
     <img src="icons/twitter.svg" alt="Twitter" style="vertical-align:top margin:6px 4px">
   </a> 
   <a href="mailto:ansh.kushwaha26@gmail.com">
-    <img src="icons/gmail.svg" alt="Gmail" style="vertical-align:top margin:6px 4px">
+    <img src="icons/gmail.png" alt="Gmail" style="vertical-align:top margin:6px 4px">
   </a>
 </p>
 
