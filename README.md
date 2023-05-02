@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Ansh-Kushwaha&label=Profile%20views&color=6805D3&style=flat" alt="Ansh-Kushwaha" />
+<img src="https://komarev.com/ghpvc/?username=Ansh-Kushwaha&label=Profile%20views&color=blue&style=flat" alt="Ansh-Kushwaha" />
  <a href="https://github.com/Ansh-Kushwaha?tab=followers"> 
   <img src="https://img.shields.io/github/followers/Ansh-Kushwaha.svg?style=social&label=Follow" alt="Ansh-Kushwaha" />
  </a>
