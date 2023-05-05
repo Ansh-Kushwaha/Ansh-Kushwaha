@@ -48,6 +48,11 @@
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ansh-Kushwaha&count_private=true&theme=rose_pine&hide_border=false#gh-dark-mode-only" alt="Ansh's GitHub Stats Graph"/>
  </a>
 </div>
+<div>
+ <a href="https://github.com/Ansh-Kushwaha/Ansh-Kushwaha">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ansh-Kushwaha&theme=dark" alt="Ansh's GitHub Streak Stats"/>
+ </a>
+</div>
 
 
 
