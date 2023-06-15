@@ -32,7 +32,7 @@
 ## Github Stats 📊
 <div>
  <a href="https://github.com/Ansh-Kushwaha/Ansh-Kushwaha">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ansh-Kushwaha\&show_icons=true&theme=rose_pine&include_all_commits=true&hide_border=false&custom_title=Ansh%20Kushwaha%27s%20Github%20Stats#gh-dark-mode-only" alt="Ansh's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ansh-Kushwaha&show_icons=true&theme=rose_pine&include_all_commits=true&hide_border=false&custom_title=Ansh%20Kushwaha%27s%20Github%20Stats#gh-dark-mode-only" alt="Ansh's GitHub Stats" />
  </a>
  
  <a href="https://github.com/Ansh-Kushwaha/Ansh-Kushwaha">
