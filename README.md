@@ -28,7 +28,7 @@
 -->
 
 ## Leetcode Stats 🚀
-![Leetcode Stats](https://leetcard.jacoblin.cool/ansh_k26?ext=heatmap?theme=nord)
+![Leetcode Stats](https://leetcard.jacoblin.cool/ansh_k26?ext=heatmap)
 
 ## Github Stats 📊
 <div>
