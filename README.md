@@ -7,7 +7,7 @@
 
 <h1 align = "center"> Hi 👋, I'm Ansh Kushwaha </h1><br>
 
-- 🌱 I’m currently learning Android Development
+- 🌱 I’m currently learning Web Development
 - 👯 I’m looking to collaborate on FrontEnd Projects
 - 👨‍💻 All of my projects are available [Here](https://github.com/Ansh-Kushwaha/)
 - 📫 How to reach me ansh.kushwaha26@gmail.com
@@ -27,30 +27,23 @@
 </p>
 -->
 
+## Leetcode Stats 🚀
+![Leetcode Stats](https://leetcard.jacoblin.cool/ansh_k26?ext=heatmap?theme=nord)
+
 ## Github Stats 📊
 <div>
  <a href="https://github.com/Ansh-Kushwaha/Ansh-Kushwaha">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ansh-Kushwaha&show_icons=true&theme=rose_pine&include_all_commits=true&hide_border=false&custom_title=Ansh%20Kushwaha%27s%20Github%20Stats#gh-dark-mode-only" alt="Ansh's GitHub Stats" />
  </a>
- 
  <a href="https://github.com/Ansh-Kushwaha/Ansh-Kushwaha">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansh-Kushwaha&theme=rose_pine&langs_count=6&card_width=350&layout=compact#gh-dark-mode-only"/>
  </a>
- </a>
  <br>
 </div>
-
-
 <div>
  <a href="https://github.com/Ansh-Kushwaha/Ansh-Kushwaha">
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ansh-Kushwaha&count_private=true&theme=rose_pine&hide_border=false#gh-dark-mode-only" alt="Ansh's GitHub Stats Graph"/>
  </a>
 </div>
-<div>
- <a href="https://github.com/Ansh-Kushwaha/Ansh-Kushwaha">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ansh-Kushwaha&theme=dark" alt="Ansh's GitHub Streak Stats"/>
- </a>
-</div>
-
 
 
